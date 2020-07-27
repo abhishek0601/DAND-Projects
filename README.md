@@ -13,8 +13,12 @@ The projects involved in Data Analyst Nano Degree program.
   Analysis of a webpage in order to find out if a new version of the webpage would have more views than the existing webpage design. 
   
  # 4. Wrangle and Analyze Data
+  Wrangling and analysis of WeRateDogs Tweets. Collection of data through Twitter API and clean the data and analyse Quality and Tidiness issue and visualizing for a better analysis.
+ 
  
  # 5. Communicate Data Findings
+   Analysis of Ford GoBIke Bike sharing system which includes cleaning the data and analyzing the data using Univariate, Bivariate and Multivariate plots to visualize and have a detailed analysis.
+ 
     
   ### Programming Language : Python 3
   
